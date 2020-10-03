@@ -1,0 +1,3 @@
+#This application demonstrates how to use git
+
+#To clone the project use the URL below...
