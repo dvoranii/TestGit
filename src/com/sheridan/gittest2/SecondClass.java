@@ -10,6 +10,6 @@ package com.sheridan.gittest2;
  * @author Ildid
  */
 public class SecondClass {
-    
+    //add more code
     
 }
